@@ -1,7 +1,9 @@
-const $ = require('jquery')
+const jq = require('jquery')
+const global = window || this
 module.exports = {
   before: config => {
-      window.$ = $
+      global.$ = jq
+      $ = jq
   },
   beforeEach: config => {
   }
