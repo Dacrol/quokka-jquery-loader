@@ -1,0 +1,22 @@
+{
+  "name": "quokka-jquery-loader",
+  "version": "0.0.0",
+  "description": "quokka-jquery-loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dacrol/quokka-jquery-loader.git"
+  },
+  "author": "Dacrol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dacrol/quokka-jquery-loader/issues"
+  },
+  "homepage": "https://github.com/Dacrol/quokka-jquery-loader#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
