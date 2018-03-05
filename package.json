@@ -1,7 +1,7 @@
 {
   "name": "quokka-jquery-loader",
   "version": "0.0.2",
-  "description": "quokka-jquery-loader",
+  "description": "Plugin to load $ into quokka.js",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
